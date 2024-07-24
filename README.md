@@ -5,9 +5,7 @@ It has the building block implementations of the self-attention and transformer,
 
 The model trained has 10M parameters.  The tokens are character level(not sub-word level like ChatGPT), and there are 65 unique tokens in this case.
 
-## Inference
-
-Different models require different model-parallel (MP) values:
+## Model
 
 |  Model             | n<sub>parameters</sub> | n<sub>tokens</sub> | 
 |--------------------|------------------------|--------------------|
