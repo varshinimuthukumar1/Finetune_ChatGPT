@@ -4,3 +4,7 @@ I am following this tutorial, [Let's build GPT from scratch](https://www.youtube
 
 
 The model trained has 10M parameters.  The tokens are character based, and there are 65 unique tokens in this case.
+
+
+change to be tested
+
