@@ -15,5 +15,7 @@ The model trained has 10M parameters.  The tokens are character level(not sub-wo
 
 ## Demo
 
+The model can generate Shakespeare like verses right now, although it does not make any sense yet.  Before improving the model architechture, I need to solve the issue of having a larger computing capacity.
+
 ![Demo](images/demo.gif)
 
