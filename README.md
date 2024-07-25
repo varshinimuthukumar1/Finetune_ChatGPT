@@ -12,3 +12,8 @@ The model trained has 10M parameters.  The tokens are character level(not sub-wo
 | GPT-3              | 175.0B                 | 300B               |
 | Shakespeare-GPT    | 10M                    | 300000             |
 
+
+## Demo
+
+![Demo](images/demo.gif)
+
